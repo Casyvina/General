@@ -1,4 +1,5 @@
 # About logo
+![](logo.png)
 The logo symbolizes an upcoming brand in data science and machine learning. I am a self-taught data scientist and machine learning engineer with over 3 years of experience. I am passionate about the fields of artificial intelligence and am ready for the ups and downs of becoming a full-stack developer.
 
 ## Progress analysis
